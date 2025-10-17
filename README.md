@@ -16,4 +16,4 @@ The program generates a random number between **0 and 50**, and the user tries t
 1. Make sure you have **Java installed** on your system.
 2. Clone the repository:
    ```bash
-   git clone <https://github.com/Nishchitha98/learning-java1>
+   git clone <https://github.com/Nishchitha98/Number-Guessing-Game.git>
